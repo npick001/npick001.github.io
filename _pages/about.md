@@ -9,17 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1000 Westinghouse Drive</p>
+    <p>Cranberry Township, Pennsylvania, 16066</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Simulator Engineer at Westinghouse Electric Company and a graduate student in Modeling and Simulation Engineering at ODU. I love hiking, climbing, and exploring. As a dedicated student, I found a deep appreciation for time and project management, dedication, and professional flexibility.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+##### **Academics**
+My academic journey has centered around harnessing the power of dynamic simulation modeling and analysis. This expertise spans across various domains, enabling me to develop comprehensive simulation models that accurately capture and analyze complex systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##### **My Simulation Worldview**
+My approach to simulation is rooted in flexibility and adaptability. I focus on understanding the unique aspects of each system, ensuring that the simulation models I create are not only accurate but highly relevant to the specific challenges and objectives at hand. This allows me to offer tailored insights and solutions, significantly impacting and optimizing processes and decision-making strategies.
+
+##### **Versitility**
+Through my studies and experiences, I have gained a deep appreciation for the nuances of dynamic systems. Whether analyzing traffic flow, optimizing industrial processes, exploring new technological applications, setting up nuclear reactor simulators, I have applied my simulation skills to a broad range of scenarios. This versatility is not just a professional asset; it's a personal passion that drives my continuous learning and application in the ever-evolving field of simulation engineering.

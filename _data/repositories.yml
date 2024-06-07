@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - npick001
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - npick001/Airsim_MSIM_Capstone
+  - npick001/Conservative-Time-Management
+  - npick001/npick001.github.io
+  - npick001/Connect4-Solver
+  - npick001/Pukoban_Solving_Agent
+  - npick001/Discrete-Simulator
+  - npick001/Computer-Network-Simulation
